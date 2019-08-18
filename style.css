@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(218, 218, 218);
+}
+
+#container {
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: white;
+}
+
+
+#header {
+  background-color: rgb(57, 57, 57);
+  text-align: center;
+  color: white;
+}
+
+#todo-req {
+}
+
+#list {
+
+}
+
+#footer {
+  margin-top: 600px;
+  background-color: rgb(57, 57, 57);
+  color: white;
+  text-align: right;
+}
+
+#form-todo {
+
+}
+
+#texto {
+  width: 40%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+  margin: auto;
+}
+
+input[type=submit] {
+  width: 40%;
+  border: none;
+  background-color: rgb(62, 159, 69);
+  cursor: pointer;
+  border-radius: 4px;
+  color: white;
+  margin-left: 170px;
+  margin-top: 5px;
+}
+
+input[type=submit]:hover {
+  background-color: rgb(17, 55, 24)
+}
+
+#box {
+    border: 1px solid rgb(51, 102, 41);
+    padding: 5px;
+    border-left: 10px solid rgb(51, 102, 41);
+    margin: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+input[type=button] {
+  margin-left: 10px;
+  cursor: pointer;
+  background-color: rgb(147, 45, 45);
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+
+input[type=button]:hover {
+  background-color: rgb(92, 28, 28)
+}
+
+h3 {
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0px;
+}
